@@ -18,7 +18,7 @@
 I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but I'm always willing to learn new things! I am 16 year old i live in France !
 <br><br>
 
-<a href="https://discord.com/channels/@me/1092845417231810580"> <img src="https://discord.c99.nl/widget/theme-2/1092845417231810580.png" alt="contact mee">
+<a href="https://discord.com/channels/@me/705852034695561256"> <img src="https://discord.c99.nl/widget/theme-2/705852034695561256.png" alt="contact mee">
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
