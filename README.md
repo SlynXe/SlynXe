@@ -15,7 +15,7 @@
 ---
 <br><br>
 
-I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but I'm always willing to learn new things! I am 18 year old i live in France !
+I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS but I'm always willing to learn new things! I am 16 year old i live in France !
 <br><br>
 
 <a href="https://discord.com/channels/@me/1092845417231810580"> <img src="https://discord.c99.nl/widget/theme-2/1092845417231810580.png" alt="contact mee">
