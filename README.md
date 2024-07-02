@@ -4,7 +4,7 @@
   <a href="https://discord.gg/l-institut-1065340906963730502"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Italia+Moderna&pause=1000&color=0CF7ED&center=true&random=false&width=435&lines=Slynxe%2C+French+full-stack+dev;Creator+of+All-for-one+discord+bot" alt="Typing SVG" /></a>
 
 
- <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
+ <img src = "https://cdn.discordapp.com/emojis/1207515341492715520.gif?size=96&quality=lossless" width=50px> **About me**
 
 <br>
 
