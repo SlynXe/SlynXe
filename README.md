@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hey there</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://slynxe.fr"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Italia+Moderna&pause=1000&color=0CF7ED&center=true&random=false&width=435&lines=Slynxe%2C+French+full-stack+dev;Creator+of+AndarisRP+FiveM" alt="Typing SVG" /></a>
+  <a href="https://slynxe.fr"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Italia+Moderna&pause=1000&color=0CF7ED&center=true&random=false&width=435&lines=Slynxe%2C+French+full-stack+dev" alt="Typing SVG" /></a>
 </p>
 
 <br>
